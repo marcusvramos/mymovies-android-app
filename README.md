@@ -29,7 +29,7 @@ This repository contains the code for the **MyMoviesApp** Android front-end appl
 
 1. **Clone the repository**:
    ```bash
-    git clone https://github.com/marcusvramos/MyMoviesApp.git
+    git clone https://github.com/marcusvramos/mymovies-android-app.git
    ```
 2. **Open the project** in Android Studio.
 3. **Sync dependencies** by going to `File > Sync Project with Gradle Files`.
