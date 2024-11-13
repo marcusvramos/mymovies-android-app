@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:padding="16dp">
+
+    <ImageView
+            android:id="@+id/poster_image_view"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"/>
+
+    <TextView
+            android:id="@+id/title_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:paddingTop="8dp"/>
+
+    <TextView
+            android:id="@+id/year_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:paddingTop="4dp"/>
+
+    <TextView
+            android:id="@+id/genre_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:paddingTop="4dp"/>
+
+    <TextView
+            android:id="@+id/extract_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:paddingTop="8dp"/>
+
+</LinearLayout>

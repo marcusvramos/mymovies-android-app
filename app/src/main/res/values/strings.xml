@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie Manager</string>
+    <string name="nav_open">Abrir Navegação</string>
+    <string name="nav_close">Fechar Navegação</string>
+</resources>
